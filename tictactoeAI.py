@@ -1,3 +1,4 @@
+#It is the same but v2
 #when printed, the game board looks like this (instead of the '11', '22', etc. it contains 'X' or 'O' or ' ')
 # ---------------
 # | 11 | 12 | 13 |
